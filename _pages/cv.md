@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Currently: Ph.D in Computer Science, Karlsruhe Institute of Technology, 2027 (expected)
+  * Developing scalable Transformer models for time-series forecasting in atmospheric prediction and advection 
+* M.S. in Computational Science and Engineering, ETH Zürich, 2023
+* B.Eng. in Chemical Engineering, McGill University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 10.2022-03.2023: Fluid simulation engineering intern, **BASF, Ludwigshafen am Rhein**
+* 05.2021-08.2021: Data science intern in Global Banking and Markets, **HSBC, Toronto, ON**
+* 04.2022-08.2021: Developer of Kinetic Monte Carlo algorithm, **Apothesis, Remote work**
+* 05.2019-08.2019: Student internship: Simulation of Fluid-Bed Spray Granulation using rCFD. **Hamburg University of Technology (TUHH), Institute of Solids Process Engineering and Particle Technology**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors & Awards
+* 09.2022 - 08.2024: Excellence Scholarship & Opportunity (ESOP) Programme, *ETH Foundation*
+* 09.2019: Hatch Scholarship, *Hatch Ltd. Foundation*
+* 04.2019: Globalink Research Award, *Mitacs Canada*
+* 04.2018: DAAD RISE Stipendium, *Deutscher Akademischer Austauschdienst*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Programming skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PyTorch
+* Distributed Computing
+* MPI
+* python
+* C++
 
 Publications
 ======
@@ -53,12 +49,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- English (native)
+- German (working proficiency)
+- Cantonese (intermediate)
