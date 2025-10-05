@@ -24,6 +24,7 @@ Work experience
 * 05.2019-08.2019: Student internship: Simulation of Fluid-Bed Spray Granulation using rCFD. **Hamburg University of Technology (TUHH), Institute of Solids Process Engineering and Particle Technology**
 
 Honors & Awards
+=====
 * 09.2022 - 08.2024: Excellence Scholarship & Opportunity (ESOP) Programme, *ETH Foundation*
 * 09.2019: Hatch Scholarship, *Hatch Ltd. Foundation*
 * 04.2019: Globalink Research Award, *Mitacs Canada*
